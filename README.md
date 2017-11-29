@@ -30,6 +30,9 @@ You boss comes and ask you to pull the gross sales for the yesr 2016
 - numbers
 - pictures and many more.
 
+## How do we store this Data?
+
+
 
 
 
