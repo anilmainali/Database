@@ -25,4 +25,7 @@ _ The customer represitive will ask you for your first and last name and pulls y
 Another Example:
 You boss comes and ask you to pull the gross sales for the yesr 2016
 
+## What can we store in a Data Base?
+
+
 
