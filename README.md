@@ -32,6 +32,9 @@ You boss comes and ask you to pull the gross sales for the yesr 2016
 
 ## How do we store this Data?
 
+## Installing/Setting up an Environment
+
+
 
 
 
