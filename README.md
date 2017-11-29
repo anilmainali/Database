@@ -13,4 +13,14 @@ A database is an organized collection of data.[1] A relational database, mor
 
 ## Example:Airline Booking Data
 
+_ Where it will store the data?
+_ The customer represitive will ask you for your first and last name and pulls your info.
+
+## Different types of Data Base.
+- SQL Server
+- Oracle
+
+### Here in this tutorial we will be installing SQL Server and run some basic queries.
+
+
 
