@@ -10,3 +10,7 @@ A database is an organized collection of data.[1] A relational database, mor
 
 - when you have some data you should have some ways to retrive it.You should have some ways to query the data and get the information.
 - you have to to store the data in a format.
+
+## Example:Airline Booking Data
+
+
