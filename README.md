@@ -22,5 +22,7 @@ _ The customer represitive will ask you for your first and last name and pulls y
 
 ### Here in this tutorial we will be installing SQL Server and run some basic queries.
 
+Another Example:
+You boss comes and ask you to pull the gross sales for the yesr 2016
 
 
